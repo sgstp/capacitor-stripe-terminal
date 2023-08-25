@@ -585,9 +585,11 @@ public class StripeTerminal
   @PluginMethod
   public void collectPaymentMethod(final PluginCall call) {
     Boolean updatePaymentIntent = call.getBoolean("updatePaymentIntent", false);
+    Boolean skipTipping = call.getBoolean("skipTipping", false);
 
     CollectConfiguration collectConfig = new CollectConfiguration.Builder()
       .updatePaymentIntent(updatePaymentIntent)
+      .skipTipping(skipTipping)
       .build();
 
     if (currentPaymentIntent != null) {
