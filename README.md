@@ -1,23 +1,21 @@
 <p align="center"><br><img src="https://user-images.githubusercontent.com/236501/85893648-1c92e880-b7a8-11ea-926d-95355b8175c7.png" width="128" height="128" /></p>
-<h3 align="center">Capacitor Stripe Terminal</h3>
-<p align="center"><strong><code>capacitor-stripe-terminal</code></strong></p>
+<h3 align="center">(zolfa-)Capacitor Stripe Terminal</h3>
+<p align="center"><strong><code>zolfa-capacitor-stripe-terminal</code></strong></p>
 <p align="center">
   Capacitor plugin for <a href="https://stripe.com/terminal">Stripe Terminal</a> (unofficial)
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/maintenance/yes/2021?style=flat-square" />
-  <a href="https://github.com/eventonehq/capacitor-stripe-terminal/actions?query=workflow%3A%22Release%22"><img src="https://img.shields.io/github/workflow/status/eventonehq/capacitor-stripe-terminal/Release?style=flat-square" /></a>
-  <a href="https://www.npmjs.com/package/capacitor-stripe-terminal"><img src="https://img.shields.io/npm/l/capacitor-stripe-terminal?style=flat-square" /></a>
+  <a href="https://github.com/zolfariot/capacitor-stripe-terminal/actions?query=workflow%3A%22Release%22"><img src="https://img.shields.io/github/workflow/status/zolfariot/capacitor-stripe-terminal/Release?style=flat-square" /></a>
+  <a href="https://www.npmjs.com/package/zolfa-capacitor-stripe-terminal"><img src="https://img.shields.io/npm/l/zolfa-capacitor-stripe-terminal?style=flat-square" /></a>
 <br>
-  <a href="https://www.npmjs.com/package/capacitor-stripe-terminal"><img src="https://img.shields.io/npm/dw/capacitor-stripe-terminal?style=flat-square" /></a>
-  <a href="https://www.npmjs.com/package/capacitor-stripe-terminal"><img src="https://img.shields.io/npm/v/capacitor-stripe-terminal?style=flat-square" /></a>
+  <a href="https://www.npmjs.com/package/zolfa-capacitor-stripe-terminal"><img src="https://img.shields.io/npm/dw/zolfa-capacitor-stripe-terminal?style=flat-square" /></a>
+  <a href="https://www.npmjs.com/package/zolfa-capacitor-stripe-terminal"><img src="https://img.shields.io/npm/v/zolfa-capacitor-stripe-terminal?style=flat-square" /></a>
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 <a href="#contributors-"><img src="https://img.shields.io/badge/all%20contributors-0-orange?style=flat-square" /></a>
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 </p>
-
-**[Current project status](https://github.com/eventOneHQ/capacitor-stripe-terminal/discussions/42)**
 
 **_WARNING_**
 
@@ -25,22 +23,16 @@ _These instructions are for v2 which is currently in beta. See the [`v1-support`
 
 ## Maintainers
 
-| Maintainer | GitHub                              | Social                                      |
-| ---------- | ----------------------------------- | ------------------------------------------- |
-| Noah Prail | [nprail](https://github.com/nprail) | [@NoahPrail](https://twitter.com/NoahPrail) |
+| Maintainer         | GitHub                                    |
+| ------------------ | ----------------------------------------- |
+| Lorenzo Zolfanelli | [zolfariot](https://github.com/zolfariot) |
 
 ## Installation
 
 Using npm:
 
 ```bash
-npm install capacitor-stripe-terminal
-```
-
-Using yarn:
-
-```bash
-yarn add capacitor-stripe-terminal
+npm install zolfa-capacitor-stripe-terminal
 ```
 
 Sync native files:
