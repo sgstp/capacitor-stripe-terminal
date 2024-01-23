@@ -1,6 +1,6 @@
 {
   "name": "zolfa-capacitor-stripe-terminal",
-  "version": "3.0.0-beta.9",
+  "version": "3.0.0-beta.10",
   "description": "Capacitor plugin for Stripe Terminal (credit card readers).",
   "main": "dist/esm/index.js",
   "types": "dist/esm/index.d.ts",
